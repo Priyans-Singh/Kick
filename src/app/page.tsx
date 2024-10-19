@@ -29,7 +29,7 @@ export default function Home() {
             <div className="absolute bottom-10 left-10 text-white">
               <h2 className="text-[74px] font-semibold">NIKE AIR MAX</h2>
               <p className="text-[24px] font-normal w-3/4">
-                Nike introducing the new air max for everyone's comfort
+                Nike introducing the new air max for everyone&apos;s comfort
               </p>
               <Button className="mt-4 bg-red-600 text-white text-[14px] font-normal px-4 py-2 rounded">
                 SHOP NOW
@@ -58,7 +58,7 @@ export default function Home() {
         <div className="p-8 flex flex-col gap-3 items-center">
           <div className="flex w-full px-4 justify-between items-end">
             <h1 className="text-6xl w-2/4 font-bold mb-4">
-              DON'T MISS OUT NEW DROPS
+              DON&apos;T MISS OUT NEW DROPS
             </h1>
             <div className="flex justify-end mb-8">
               <button className="bg-red-500 text-white py-2 px-4 rounded">
